@@ -13,7 +13,10 @@
 - [RunAsDate (Optional)](https://runasdate.en.softonic.com/)
 
 ###### Things To Know
-Dream Radar RNG can be used to obtain DBHA Legendaries and several other Pokemon. Pokemon here are Shiny-Locked, but other than that, there are no limitations. You will be advancing both types of frames present in Generation 5 (IVRNG and PIDRNG Frames) at the same time and by two each advance. Frames for this RNG are advanced using the key system. ![system](https://snag.gy/JN9Wu5.jpg)
+Dream Radar RNG can be used to obtain DBHA Legendaries and several other Pokemon. Pokemon here are Shiny-Locked, but other than that, there are no limitations. You will be advancing both types of frames present in Generation 5 (IVRNG and PIDRNG Frames) at the same time and by two each advance. Frames for this RNG are advanced using the key system. 
+
+![](https://snag.gy/JN9Wu5.jpg)
+
 In addition, you may have noticed a "Dream Radar" tab in RNG Reporter. During the time of this guide being written, that tab does not work. Therefore, the guide will explain an alternate method of finding seeds and desired IV/Nature combonations.
 
 
@@ -28,14 +31,14 @@ Ensure that you have exported your BW2 Save File with the Dream Radar Pokemon to
 - The IVs frame range depends on what Pokemon you are RNGing. For the Therian Trio (Tornadus, Thundurus, Landorus) set the minimum IV frame to 21. For the other Pokemon the minimum IV frame is 8. Maximum frame can be whatever you prefer.
 - Hit search and wait for results to show.
 
-![example](https://snag.gy/iTgKX3.jpg)
+![](https://snag.gy/iTgKX3.jpg)
 
 If you are going for a Generation 4 Legendary or a random Pokemon, target even IV frames, but if you are going for a Therian-Forme, target odd IV frames.
 2. Getting a good nature
  - You may notice that Time Finder has not listed nature for Dream Radar. To get the nature we will hit by using a frame, we will go to the main RNGReporter screen and select Gen 5 PIDRNG. Unfortunately, you cannot control Dream Radar nature, only predict it. To find the nature we will get, we use a formula.
  - For example, if I want this: 
  
- ![example](https://snag.gy/JpIxYQ.jpg) 
+ ![](https://snag.gy/JpIxYQ.jpg) 
  
  -  I will take the seed and get the initial PIDRNG Frame for it using the button on RNGReporter. (This button will appear on the right when you have selected Gen 5 PIDRNG) Now that I have the initial PIDRNG Frame, I can plug the information in to the formulas below.
  
