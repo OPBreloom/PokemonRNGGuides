@@ -12,7 +12,7 @@ Before continuing with the guide it is recommended to be in the first PokeCenter
 ## Final Screen
   - "You received xxx!"
 
-![](https://i.imgur.com/wmpzsKN.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/blob/master/pictures/usum/en/mystery%20gift%20rng.png?raw=true)
 
 Make sure to stand exactly like the image above or the timeline may be off resulting in missing your target frame.    
 
@@ -39,7 +39,7 @@ In the Gen 7 games each NPC has an affect on the RNG frames. This is why the fra
 
 ## Step 2: RNGing the Pokemon
 
-- Create a timeline following this guide: [Gen 7 Timeline Guide](https://pokemonrng.com/guides/sm/en/timeline.md)
+- Create a timeline following this guide: [Gen 7 Timeline Guide](https://pokemonrng.com/guides/usum/en/Timeline%20Guide.md)
 
 - Advance to your target frame and when you land on it, press A to unpause the game and obtain the Pokemon.
 

@@ -92,7 +92,7 @@ In summary, the total time span in seconds = (Pre-Timer + Lag) / 1000 + (Target 
 
 ### Step 1: Find initial seed via continue screen clock needles
 
-- Check [here](https://pokemonrng.com/guides/tools/en/init-seed-stock.md)
+- Check [here](https://pokemonrng.com/guides/tools/en/Finding%20Initial%20Seed%20with%20Clocks%20(no%20Custom%20Firmware%20RNG).md)
 - Once you get only one seed result, the tool will update it to main window. The starting frame in Time Calculator is updated as well. (417/477 + the number of frames you saw for clocks)
 - Be sure to double check your seed, most of failures are from the wrong seed ;)
 - Do not enter your save yet.
@@ -132,7 +132,7 @@ Wait at the final screen until timer ends. **Be focused!**
 
 Check `Using Stats`, put the stats of the Pokemon you got. Check `+-100 frames` in `RNG Info`, hit Calculate again, you will see the frames which have the spread you hit. If you can't find the Pokemon you hit, please make sure you got the initial seed correctly.
 
-Let's check your pre-timer. Look at the `Shift/F` Column. 
+Let's check your pre-timer. Look at the `Shift/F` Column.
 
 If the number is between -4F and 4F, you are doing good and just because of the luck. Start over again and try to find a good seed and hit frame clusters with the same spread.
 
@@ -170,3 +170,15 @@ Sometimes, the results might be far away from your target, then might it's due t
 The idea is simple, change the NPC count of Time Calculator and see what number of NPCs is giving the closet actual time you was waiting.
 
 Or you can waiting a fixed amount of time and using QR method to check how many frames are used.
+
+## Xurkitree
+
+The NPC number changes between 1 and 2 in a period of 10.7 seconds due to the wandering Xurkitree in the background. So we have to use X menu to freeze the varying NPC count. Here's the mindset:
+
+- Save while you're standing behind it
+  - Which will allow you have long time window for 1 NPC (~7 seconds)
+- Find the initial seed, load the game and open the X menu as soon as possible.
+- Use QR needles measure NPC count to make sure there is 1 NPC.
+  - Close X menu, wait several seconds and reopen it again to refresh background situation.
+- Wait with X menu opened to advance close to your target frame
+- Quit X menu and trigger the battle as fast as you can to avoid NPC changes.
